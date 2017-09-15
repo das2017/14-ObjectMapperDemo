@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmitMapperDemo", "EmitMapperDemo\EmitMapperDemo.csproj", "{D18F4DD2-B892-424F-8106-50D28285024D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapperDemo", "AutoMapperDemo\AutoMapperDemo.csproj", "{CC23866B-0971-4241-B22F-911E493A4497}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferenceDll", "ReferenceDll", "{D3B05F4B-4C43-4005-81C9-46583D5E6E00}"
+	ProjectSection(SolutionItems) = preProject
+		ReferenceDll\AutoMapper.dll = ReferenceDll\AutoMapper.dll
+		ReferenceDll\AutoMapper.xml = ReferenceDll\AutoMapper.xml
+		ReferenceDll\EmitMapper.dll = ReferenceDll\EmitMapper.dll
+		ReferenceDll\EmitMapper.XML = ReferenceDll\EmitMapper.XML
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D18F4DD2-B892-424F-8106-50D28285024D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18F4DD2-B892-424F-8106-50D28285024D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18F4DD2-B892-424F-8106-50D28285024D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18F4DD2-B892-424F-8106-50D28285024D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC23866B-0971-4241-B22F-911E493A4497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC23866B-0971-4241-B22F-911E493A4497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC23866B-0971-4241-B22F-911E493A4497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC23866B-0971-4241-B22F-911E493A4497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
