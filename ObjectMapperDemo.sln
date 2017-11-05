@@ -13,6 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferenceDll", "ReferenceDl
 		ReferenceDll\AutoMapper.xml = ReferenceDll\AutoMapper.xml
 		ReferenceDll\EmitMapper.dll = ReferenceDll\EmitMapper.dll
 		ReferenceDll\EmitMapper.XML = ReferenceDll\EmitMapper.XML
+		ReferenceDll\Readme.txt = ReferenceDll\Readme.txt
 	EndProjectSection
 EndProject
 Global
